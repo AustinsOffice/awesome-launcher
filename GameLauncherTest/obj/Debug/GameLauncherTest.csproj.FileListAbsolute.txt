@@ -1,0 +1,16 @@
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\bin\Debug\GameLauncherTest.exe.config
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\bin\Debug\GameLauncherTest.exe
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\bin\Debug\GameLauncherTest.pdb
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\obj\Debug\GameLauncherTest.csprojResolveAssemblyReference.cache
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\obj\Debug\MainWindow.g.cs
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\obj\Debug\App.g.cs
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\obj\Debug\GameLauncherTest_MarkupCompile.cache
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\obj\Debug\GameLauncherTest_MarkupCompile.lref
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\obj\Debug\MainWindow.baml
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\obj\Debug\GameLauncherTest.g.resources
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\obj\Debug\GameLauncherTest.Properties.Resources.resources
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\obj\Debug\GameLauncherTest.csproj.GenerateResource.Cache
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\obj\Debug\GameLauncherTest.exe
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\obj\Debug\GameLauncherTest.pdb
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\bin\Debug\GameLauncherLibrary.dll
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherTest\bin\Debug\GameLauncherLibrary.pdb

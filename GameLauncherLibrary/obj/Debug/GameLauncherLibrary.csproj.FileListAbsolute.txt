@@ -1,0 +1,6 @@
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherLibrary\bin\Debug\GameLauncherLibrary.dll
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherLibrary\bin\Debug\GameLauncherLibrary.pdb
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherLibrary\obj\Debug\GameLauncherLibrary.csprojResolveAssemblyReference.cache
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherLibrary\obj\Debug\GameLauncherLibrary.dll
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherLibrary\obj\Debug\GameLauncherLibrary.pdb
+c:\users\austin\documents\visual studio 2015\Projects\GameLauncherTest\GameLauncherLibrary\bin\Debug\LitJson.dll
